@@ -36,7 +36,7 @@
                         <div class="section-overlay"></div>
                         <div class="row">
                             <div class="col-12">
-                                <h1 class="section-title">CEO Message</h1>
+                                <h1 class="section-title">CEO</h1>
                                 <h4 class="section-para">About Us</h4> </div>
                         </div>
                     </div>
@@ -50,7 +50,7 @@
                                 <ol class="breadcrumb">
                                     <li class="breadcrumb-item"><a href="#">Home</a></li>
                                     <li class="breadcrumb-item"><a href="#">About Us</a></li>
-                                    <li class="breadcrumb-item active" aria-current="page">CEO Message</li>
+                                    <li class="breadcrumb-item active" aria-current="page">CEO</li>
                                 </ol>
                             </nav>
                         </div>

@@ -36,7 +36,7 @@
                         <div class="section-overlay"></div>
                         <div class="row">
                             <div class="col-12">
-                                <h1 class="section-title">Medical Director Message</h1>
+                                <h1 class="section-title">Medical Director</h1>
                                 <h4 class="section-para">About Us</h4> </div>
                         </div>
                     </div>
@@ -50,7 +50,7 @@
                                 <ol class="breadcrumb">
                                     <li class="breadcrumb-item"><a href="#">Home</a></li>
                                     <li class="breadcrumb-item"><a href="#">About Us</a></li>
-                                    <li class="breadcrumb-item active" aria-current="page">Medical Director Message</li>
+                                    <li class="breadcrumb-item active" aria-current="page">Medical Director</li>
                                 </ol>
                             </nav>
                         </div>
@@ -72,8 +72,8 @@
                             <div class="page-image mt-5"> <img src="assets/imgs/medical-director.jpg" alt="" class="img-fluid"> </div>
                             
                             <div class="message-author">
-                                <h3 class="text-green">Dr. Ahmad Abdulrazzaq Bafarat</h3>
-                                <h4>Director</h4>
+                                <h3 class="text-green">Dr.</h3>
+                                <h4>Medical Director</h4>
                             </div>
                         </div>
                     </div>

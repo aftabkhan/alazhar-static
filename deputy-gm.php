@@ -46,7 +46,7 @@
                 <div class="section-overlay"></div>
                 <div class="row">
                     <div class="col-12">
-                        <h1 class="section-title">Deputy General Manager Message</h1>
+                        <h1 class="section-title">Deputy General Manager</h1>
                         <h4 class="section-para">About Us</h4>
                     </div>
                 </div>
@@ -61,7 +61,7 @@
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="#">Home</a></li>
                             <li class="breadcrumb-item"><a href="#">About Us</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Deputy General Manager Message</li>
+                            <li class="breadcrumb-item active" aria-current="page">Deputy General Manager</li>
                         </ol>
                     </nav>
                 </div>
@@ -86,7 +86,7 @@
                 </div>
                 <div class="col-lg-4 ml-auto">
                     <div class="page-image mt-5">
-                        <img src="https://via.placeholder.com/400x500" alt="" class="img-fluid">
+                        <img src="assets/imgs/deputy-gm.jpg" alt="" class="img-fluid">
                     </div>                    
                     <div class="message-author">
                         <h3 class="text-green">Ph. Sultan. R. Al-mutery</h3>

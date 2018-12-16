@@ -60,27 +60,174 @@
             <section class="pt-3 pb-3">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-7">
+                        <div class="col-lg-12">
                             <div class="page-head">
                                 <h2>Management</h2> 
                             </div>
-                            <div class="para pt-4">
-                                <p>Content will be updated soon...</p>
+                        </div>
+                    </div>
+<!--
+                    <div class="row">
+                        <div class="col-lg-6 offset-lg-3 mt-5">
+                            <div class="row align-items-center  text-center">
+                                <div class="col-md-12 mng-img">
+                                    <a href="chairman.php"><img src="assets/imgs/chairman.jpg" alt="" class="mng-img-circle"></a>
+                                </div>
+                                <div class="col-md-12">
+                                    <blockquote class="mng-details">
+                                        <h6 class="text-green">Mr. Saad Al Shamrany</h6>
+                                        <small>Chairman</small>
+                                    </blockquote>
+                                </div>
                             </div>
                         </div>
-                        <!-- <div class="col-lg-4 ml-auto">
-                            <div class="page-image mt-5"> <img src="" alt="" class="img-fluid"> </div>
-                            
-                            <div class="message-author">
-                                <h3 class="text-green"></h3>
-                                <h4>Management</h4>
+                        
+                        <div class="col-lg-6 offset-lg-3 mt-3 mb-3">
+                            <div class="row align-items-center  text-center">
+                                <div class="col-md-12 mng-img">
+                                    <a href="vice-chairman.php"><img src="assets/imgs/vice-chairman.jpg" alt="" class="mng-img-circle"></a>
+                                </div>
+                                <div class="col-md-12">
+                                    <blockquote class="mng-details">
+                                        <h6 class="text-green">Mr. Misfer Saad Al Shamrany</h6>
+                                        <small>Vice Chairman</small>
+                                    </blockquote>
+                                </div>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
+
+                    <div class="row">    
+                        <div class="col-lg-2 col-md-4 col-sm-6 col-12">
+                            <div class="row align-items-center  text-center">
+                                <div class="col-md-12 mng-img">
+                                    <a href="ceo.php"><img src="assets/imgs/ceo.jpg" alt="" class="mng-img-circle"></a>
+                                </div>
+                                <div class="col-md-12">
+                                    <blockquote class="mng-details">
+                                        <h6 class="text-green">Dr. Mohamad Saleem Terro</h6>
+                                        <small>CEO</small>
+                                    </blockquote>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-4 col-sm-6 col-12">
+                            <div class="row align-items-center  text-center">
+                                <div class="col-md-12 mng-img">
+                                    <a href="gm.php"><img src="assets/imgs/general-manager.jpg" alt="" class="mng-img-circle"></a>
+                                </div>
+                                <div class="col-md-12">
+                                    <blockquote class="mng-details">
+                                        <h6 class="text-green">Dr. Abdulmalik Hosain Alsaban</h6>
+                                        <small>General Manager</small>
+                                    </blockquote>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-4 col-sm-6 col-12">
+                            <div class="row align-items-center  text-center">
+                                <div class="col-md-12 mng-img">
+                                    <a href="deputy-gm.php"><img src="assets/imgs/deputy-gm.jpg" alt="" class="mng-img-circle"></a>
+                                </div>
+                                <div class="col-md-12">
+                                    <blockquote class="mng-details">
+                                        <h6 class="text-green">Ph. Sultan. R. Al-mutery</h6>
+                                        <small>Deputy General Manager</small>
+                                    </blockquote>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-4 col-sm-6 col-12">                            
+                            <div class="row align-items-center  text-center">
+                                <div class="col-md-12 mng-img">
+                                    <a href="medical-director.php"><img src="assets/imgs/medical-director.jpg" alt="" class="mng-img-circle"></a>
+                                </div>
+                                <div class="col-md-12">
+                                    <blockquote class="mng-details">
+                                        <h6 class="text-green">Dr. Ahmad Abdulrazzaq Bafarat</h6>
+                                        <small>Medical Director</small>
+                                    </blockquote>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-4 col-sm-6 col-12">
+                            <div class="row align-items-center  text-center">
+                                <div class="col-md-12 mng-img">
+                                    <a href="tqm-director.php"><img src="assets/imgs/tqm-director.jpg" alt="" class="mng-img-circle"></a>
+                                </div>
+                                <div class="col-md-12">
+                                    <blockquote class="mng-details">
+                                        <h6 class="text-green">Dr. Ahmad Abdulrazzaq Bafarat</h6>
+                                        <small>TQM Director</small>
+                                    </blockquote>
+                                </div>
+                            </div>
+                        </div>                        
+                        <div class="col-lg-2 col-md-4 col-sm-6 col-12">                                                      
+                            <div class="row align-items-center  text-center">
+                                <div class="col-md-12 mng-img">
+                                    <a href="#"><img src="https://via.placeholder.com/150x150" alt="" class="mng-img-circle"></a>
+                                </div>
+                                <div class="col-md-12">
+                                    <blockquote class="mng-details">
+                                        <h6 class="text-green"></h6>
+                                        <small>HR Manager</small>
+                                    </blockquote>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+-->
+                   <div id="tree"></div>
                 </div>
             </section>
             <!-- /Page Content -->
             <?php include('layout/footer.html')?>
+            <script src="assets/js/orgChart.js"></script>
+            <script>
+                OrgChart.templates.diva.field_0 = 
+                    '<text class="field_0" style="font-size: 20px;" fill="#ffffff" x="125" y="30" text-anchor="middle">{val}</text>';
+                OrgChart.templates.diva.field_1 = 
+                    '<text class="field_1" style="font-size: 14px;" fill="#ffffff" x="100" y="120" text-anchor="middle">{val}</text>';
+
+                window.onload = function () {
+                    var chart = new OrgChart(document.getElementById("tree"), {
+                        template: "diva",
+                        layout: BALKANGraph.normal,
+                        enableSearch: false,
+                        scaleInitial: BALKANGraph.match.boundary,
+                        //mouseScroolBehaviour: BALKANGraph.action.zoom,
+                        nodeBinding: {
+                            //field_0: "name",
+                            field_1: "title",
+                            img_0: "img"
+                        },
+                        nodes: [
+                            { id: 1, name: "Mr. Saad Al Shamrany", title: "Chairman", img:"http://localhost/projects/alazhar/static/26Nov18/assets/imgs/chairman.jpg" },
+                            
+                            { id: 2, pid: 1, name: "Mr. Misfer Saad Al Shamrany", title: "Vice Chairman", img: "http://localhost/projects/alazhar/static/26Nov18/assets/imgs/vice-chairman.jpg" },
+                            
+                            { id: 3, pid: 2, name: "Dr. Abdulmalik Hosain Alsaban", title: "General Manager", img: "http://localhost/projects/alazhar/static/26Nov18/assets/imgs/general-manager.jpg" },
+                            
+                            { id: 4, pid: 2, name: "Dr. Mohamad Saleem Terro", title: "CEO", img: "http://localhost/projects/alazhar/static/26Nov18/assets/imgs/ceo.jpg" },
+                            
+                            { id: 5, pid: 3, name: "Ph. Sultan. R. Al-mutery", title: "Deputy GM", img: "http://localhost/projects/alazhar/static/26Nov18/assets/imgs/deputy-gm.jpg" },
+                            
+                            { id: 6, pid: 3, name: "Dr. Ahmad Abdulrazzaq Bafarat", title: "TQM Director", img: "http://localhost/projects/alazhar/static/26Nov18/assets/imgs/tqm-director.jpg" },
+                            
+                            { id: 7, pid: 3, name: "Dr. ", title: "Infection Control Director", img: "http://localhost/projects/alazhar/static/26Nov18/assets/imgs/doctor-thumb.png" },
+                            
+                            { id: 8, pid: 4, name: "Dr. ", title: "Medical Director", img: "http://localhost/projects/alazhar/static/26Nov18/assets/imgs/medical-director.jpg" },
+                            
+                            { id: 9, pid: 4, name: "HR Manager", title: "HR Manager", img: "http://localhost/projects/alazhar/static/26Nov18/assets/imgs/doctor-thumb.png" },
+                            
+                            { id: 10, pid: 4, name: "Nursing Director", title: "Nursing Director", img: "http://localhost/projects/alazhar/static/26Nov18/assets/imgs/doctor-thumb.png" }
+                        ]
+                    });  
+                    
+                    $("#tree a").css("display","none");
+                };
+            </script>
 </body>
 
 </html>

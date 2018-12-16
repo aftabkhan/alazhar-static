@@ -36,7 +36,7 @@
                         <div class="section-overlay"></div>
                         <div class="row">
                             <div class="col-12">
-                                <h1 class="section-title">TQM Director Message</h1>
+                                <h1 class="section-title">TQM Director</h1>
                                 <h4 class="section-para">About Us</h4> </div>
                         </div>
                     </div>
@@ -50,7 +50,7 @@
                                 <ol class="breadcrumb">
                                     <li class="breadcrumb-item"><a href="#">Home</a></li>
                                     <li class="breadcrumb-item"><a href="#">About Us</a></li>
-                                    <li class="breadcrumb-item active" aria-current="page">Director Message</li>
+                                    <li class="breadcrumb-item active" aria-current="page">TQM Director</li>
                                 </ol>
                             </nav>
                         </div>
@@ -62,7 +62,7 @@
                     <div class="row">
                         <div class="col-lg-7">
                             <div class="page-head">
-                                <h2>Director Message</h2> 
+                                <h2>TQM Director Message</h2> 
                             </div>
                             <div class="para pt-4">
                                 <p>A commitment from the AlAzhar Hospital Management to the following quality standard :</p>
@@ -81,11 +81,11 @@
                             </div>
                         </div>
                         <div class="col-lg-4 ml-auto">
-                            <div class="page-image mt-5"> <img src="https://via.placeholder.com/400x500" alt="" class="img-fluid"> </div>
+                            <div class="page-image mt-5"> <img src="assets/imgs/tqm-director.jpg" alt="tqm-director" class="img-fluid"> </div>
                             
                             <div class="message-author">
                                 <h3 class="text-green">Dr. Ahmad Abdulrazzaq Bafarat</h3>
-                                <h4>Director</h4>
+                                <h4>TQM Director</h4>
                             </div>
                         </div>
                     </div>

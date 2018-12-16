@@ -76,7 +76,7 @@
                         <h2>News &amp; Updates</h2>
                     </div>
                     <div class="para pt-4">
-                        <p>Contact will be updated soon...</p>
+                        <p>Content will be updated soon...</p>
                     </div>
                 </div>
                 <div class="col-lg-4 ml-auto"></div>
